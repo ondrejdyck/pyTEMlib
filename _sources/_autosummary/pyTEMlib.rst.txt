@@ -1,0 +1,56 @@
+﻿pyTEMlib
+========
+
+.. automodule:: pyTEMlib
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. autosummary::
+   :toctree:
+      :template: custom-module-template.rst
+   :recursive:
+
+   pyTEMlib.KinsCat
+   pyTEMlib.animation
+   pyTEMlib.atom_tools
+   pyTEMlib.config_dir
+   pyTEMlib.crystal_tools
+   pyTEMlib.edges_db
+   pyTEMlib.eels_dialog
+   pyTEMlib.eels_dlg
+   pyTEMlib.eels_tools
+   pyTEMlib.file_tools
+   pyTEMlib.image_dialog
+   pyTEMlib.image_dlg
+   pyTEMlib.image_tools
+   pyTEMlib.info_dialog
+   pyTEMlib.info_dlg
+   pyTEMlib.interactive_eels
+   pyTEMlib.interactive_image
+   pyTEMlib.microscope
+   pyTEMlib.peak_dialog
+   pyTEMlib.peak_dlg
+   pyTEMlib.probe_tools
+   pyTEMlib.qt_sidpy_tools
+   pyTEMlib.sidpy_tools
+   pyTEMlib.simulation_tools
+   pyTEMlib.structure_tools
+   pyTEMlib.version
+   pyTEMlib.viz
+
